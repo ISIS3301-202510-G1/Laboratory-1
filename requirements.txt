@@ -1,1 +1,7 @@
 pandas
+seaborn
+rich
+ydata-profiling
+matplotlib
+nltk
+scikit-learn
